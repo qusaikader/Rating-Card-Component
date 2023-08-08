@@ -1,0 +1,34 @@
+.thankyou-header_illustration {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0px;
+}
+
+.thankyou-header_rating{
+    display: flex;
+    justify-content: center;
+    margin: 10px 0px;
+}
+
+.thankyou-header_rating p{
+    font-size: 13px;
+    color: hsl(25, 97%, 53%);
+    padding: 8px 30px;
+    background-color: hsl(216, 12%, 54%,0.2);
+    max-width: fit-content;
+    border-radius: 20px;
+}
+
+.thankyou__description h1{
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+.thankyou__description p {
+    text-align: center;
+    color: hsl(216, 12%, 54%);
+    font-size: 15px;
+    margin: 10px 0px;
+}
+

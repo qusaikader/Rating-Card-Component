@@ -1,0 +1,19 @@
+.rating-header__favicon {
+    margin: 1rem 0rem;
+}
+
+.rating-header__favicon img{
+    padding: 10px;
+    border-radius: 50%;
+    background-color: hsla(216, 12%, 54%, 0.5);
+}
+
+.rating-header__description h1{
+    color: hsl(0, 0%, 100%);
+    margin: 0;
+}
+
+.rating-header__description p{
+    font-size: 15px;
+    color: hsl(216, 12%, 54%);
+}
